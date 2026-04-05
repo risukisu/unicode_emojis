@@ -1,3 +1,5 @@
+
+[![CANDOR: copilot](https://img.shields.io/badge/%E4%B7%BC%20CANDOR-copilot-fee2e2?labelColor=fee2e2)](https://candor.md)
 ```
 ʘ‿ʘ
 innocent face 
@@ -338,3 +340,7 @@ judgemental
 
 Note:
 The emojis above consist of Unicode characters and not ASCII characters. I found that people often search for ASCII over unicode not understanding the difference so I've kept the repo name intact for SEO reasons. See https://en.wikipedia.org/wiki/ASCII v. https://en.wikipedia.org/wiki/Unicode
+
+---
+
+Built with [Claude Code](https://claude.ai/code) as copilot. [CANDOR: copilot](https://candor.md) — AI writes the code, I make the decisions.
